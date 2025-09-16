@@ -1,2 +1,2 @@
 # Hayag-ai
-a searchable repository platform containing thesis, capstone, and research papers for CSU students.
+A university thesis repository platform featuring an intelligent assistant to help students brainstorm and develop thesis ideas
